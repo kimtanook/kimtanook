@@ -32,8 +32,6 @@ Thank you so much for visiting my GitHub!
 
 <div>
 <a href="seob6402@gmail.com">
- <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-seob6402@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </a>
-
-**seob6402@gmail.com**
 </div>
